@@ -1,0 +1,1 @@
+document.writeln('Testasdadsad');document.writeln('ok');

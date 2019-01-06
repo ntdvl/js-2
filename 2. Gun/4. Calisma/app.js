@@ -1,0 +1,1 @@
+window.alert('Hoşgeldiniz'); // window nesnesinin alert() metodu
