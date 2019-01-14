@@ -1,0 +1,2 @@
+var x = 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Id numquam aperiam deleniti quas eum tenetur expedita ipsam iste similique magnam, culpa voluptatibus sed nostrum eligendi asperiores exercitationem\'i, at obcaecati porro?'
+document.write(x);
