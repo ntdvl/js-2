@@ -1,0 +1,1 @@
+var p = document.getElementById('test').innerHTML = eval('window.location = "https://www.google.com";');
